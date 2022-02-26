@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "674957159194",
+    "project_id": "zaika-foods",
+    "storage_bucket": "zaika-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674957159194:android:e2a4e2fcf2f7ad558e1aa3",
+        "android_client_info": {
+          "package_name": "com.ahit.delivery_admin.delivery_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUPsMur19sAPl6ZcChN7vBT5lJNzDHy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674957159194:android:18633a427459b9be8e1aa3",
+        "android_client_info": {
+          "package_name": "com.ahit.zaika_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674957159194-hm655b3fnnc34t7e4jvnva6me7ih0ok3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahit.zaika_foods",
+            "certificate_hash": "a1bf53cdd3fee81e0b7c271d82c69138bc21f155"
+          }
+        },
+        {
+          "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUPsMur19sAPl6ZcChN7vBT5lJNzDHy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674957159194:android:5b84b63d095d0b2f8e1aa3",
+        "android_client_info": {
+          "package_name": "com.ahit.zaika_operators.food_delivery_operatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674957159194-fd7oljju1desjotkj3d06f3bjjdloor3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahit.zaika_operators.food_delivery_operatos",
+            "certificate_hash": "a1bf53cdd3fee81e0b7c271d82c69138bc21f155"
+          }
+        },
+        {
+          "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUPsMur19sAPl6ZcChN7vBT5lJNzDHy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674957159194:android:874474fe66ab1e878e1aa3",
+        "android_client_info": {
+          "package_name": "com.ahit.zaikaoperators.food_delivery_agents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUPsMur19sAPl6ZcChN7vBT5lJNzDHy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674957159194-fuddgbgeprc44us38jk6m1uk4d1g3mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
